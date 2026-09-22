@@ -8,7 +8,7 @@ let result1 = celsiusTofahrenheit(32);
 console.log("Celsius: ",celsius);
 console.log("Fahrenheit: ",result1);
 
-// FActorial number
+//Factorial number
 function factorial(number){
     let result = 1;
     for(let i = 1 ; i <= number; i++){
